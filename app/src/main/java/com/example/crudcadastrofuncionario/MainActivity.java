@@ -110,10 +110,6 @@ public class MainActivity extends AppCompatActivity {
             textSexo.setText(sexo);
             textEmail.setText(email);
             textProfissao.setText(profissao);
-
-            Toast.makeText(MainActivity.this, "Nome: "+nome +" Idade: "+idade, Toast.LENGTH_SHORT).show();
-
-
         }
     }
 
